@@ -4,6 +4,9 @@ Descrição
 Este projeto tem como objetivo demonstrar o conceito de Agregação dentro da Programação Orientada a Objetos (POO) utilizando a linguagem Python.
 O código foi desenvolvido com foco didático, visando facilitar o entendimento do relacionamento entre classes de forma clara e prática.
 
+## Diagrama do Projeto
+
+![Demonstração do projeto:](projeto_fabricacao_carros_python_foto.png)
 
 
 A agregação é um tipo de associação onde uma classe utiliza outra, mas ambas podem existir de forma independente.
